@@ -15,27 +15,58 @@
 
 **API**
 
-![REST](https://img.shields.io/badge/REST-2563EB?style=for-the-badge) ![SOAP](https://img.shields.io/badge/SOAP-2563EB?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-2563EB?style=for-the-badge&logo=postman&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-2563EB?style=for-the-badge) ![Swagger](https://img.shields.io/badge/Swagger-2563EB?style=for-the-badge&logo=swagger&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-2563EB?style=for-the-badge) ![XML](https://img.shields.io/badge/XML-2563EB?style=for-the-badge)
+<p>
+  <img src="Icons/round/rest.svg" alt="REST" title="REST" width="56" height="56" />
+  <img src="Icons/round/soap.svg" alt="SOAP" title="SOAP" width="56" height="56" />
+  <img src="Icons/round/postman.svg" alt="Postman" title="Postman" width="56" height="56" />
+  <img src="Icons/round/soapui.svg" alt="SoapUI" title="SoapUI" width="56" height="56" />
+  <img src="Icons/round/swagger.svg" alt="Swagger" title="Swagger" width="56" height="56" />
+  <img src="Icons/round/json.svg" alt="JSON" title="JSON" width="56" height="56" />
+  <img src="Icons/round/xml.svg" alt="XML" title="XML" width="56" height="56" />
+</p>
 
 **Базы данных**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="Icons/round/sql.svg" alt="SQL" title="SQL" width="56" height="56" />
+  <img src="Icons/round/mysql.svg" alt="MySQL" title="MySQL" width="56" height="56" />
+</p>
 
 **Web**
 
-![DevTools](https://img.shields.io/badge/DevTools-E34F26?style=for-the-badge&logo=googlechrome&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=css&logoColor=white)
+<p>
+  <img src="Icons/round/googlechrome.svg" alt="DevTools" title="DevTools" width="56" height="56" />
+  <img src="Icons/round/html.svg" alt="HTML" title="HTML" width="56" height="56" />
+  <img src="Icons/round/css.svg" alt="CSS" title="CSS" width="56" height="56" />
+</p>
 
 **Анализ сетевого трафика**
 
-![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-7C3AED?style=for-the-badge) ![Fiddler](https://img.shields.io/badge/Fiddler-7C3AED?style=for-the-badge)
+<p>
+  <img src="Icons/round/charles.svg" alt="Charles Proxy" title="Charles Proxy" width="56" height="56" />
+  <img src="Icons/round/progress.svg" alt="Fiddler" title="Fiddler" width="56" height="56" />
+</p>
 
 **Тестовая документация и задачи**
 
-![Тест-кейсы](https://img.shields.io/badge/%D0%A2%D0%B5%D1%81%D1%82--%D0%BA%D0%B5%D0%B9%D1%81%D1%8B-14856B?style=for-the-badge) ![Чек-листы](https://img.shields.io/badge/%D0%A7%D0%B5%D0%BA--%D0%BB%D0%B8%D1%81%D1%82%D1%8B-14856B?style=for-the-badge) ![Баг-репорты](https://img.shields.io/badge/%D0%91%D0%B0%D0%B3--%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B-14856B?style=for-the-badge) ![TestRail](https://img.shields.io/badge/TestRail-14856B?style=for-the-badge&logo=testrail&logoColor=white) ![QASE](https://img.shields.io/badge/QASE-14856B?style=for-the-badge&logo=qase&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-14856B?style=for-the-badge&logo=jira&logoColor=white) ![YouTrack](https://img.shields.io/badge/YouTrack-14856B?style=for-the-badge&logo=youtrack&logoColor=white)
+<p>
+  <img src="Icons/round/test-cases.svg" alt="Тест-кейсы" title="Тест-кейсы" width="56" height="56" />
+  <img src="Icons/round/checklists.svg" alt="Чек-листы" title="Чек-листы" width="56" height="56" />
+  <img src="Icons/round/bug-reports.svg" alt="Баг-репорты" title="Баг-репорты" width="56" height="56" />
+  <img src="Icons/round/testrail.svg" alt="TestRail" title="TestRail" width="56" height="56" />
+  <img src="Icons/round/qase.svg" alt="QASE" title="QASE" width="56" height="56" />
+  <img src="Icons/round/jira.svg" alt="Jira" title="Jira" width="56" height="56" />
+  <img src="Icons/round/youtrack.svg" alt="YouTrack" title="YouTrack" width="56" height="56" />
+</p>
 
 **Другие инструменты**
 
-![Git](https://img.shields.io/badge/Git-374151?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-374151?style=for-the-badge&logo=gnubash&logoColor=white)
+<p>
+  <img src="Icons/round/git.svg" alt="Git" title="Git" width="56" height="56" />
+  <img src="Icons/round/github.svg" alt="GitHub" title="GitHub" width="56" height="56" />
+  <img src="Icons/round/linux.svg" alt="Linux" title="Linux" width="56" height="56" />
+  <img src="Icons/round/gnubash.svg" alt="Bash" title="Bash" width="56" height="56" />
+</p>
 
 **Английский язык:** B1.
 
