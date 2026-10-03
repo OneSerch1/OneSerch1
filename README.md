@@ -13,13 +13,31 @@
 
 ## Навыки и инструменты
 
-- **API:** REST, SOAP, Postman, SoapUI, Swagger, JSON, XML.
-- **Базы данных:** SQL, MySQL.
-- **Web:** DevTools, HTML, CSS.
-- **Анализ сетевого трафика:** Charles Proxy, Fiddler.
-- **Тестовая документация и задачи:** тест-кейсы, чек-листы, баг-репорты, TestRail, QASE, Jira, YouTrack.
-- **Другие инструменты:** Git, GitHub, Linux/Bash.
-- **Английский язык:** B1.
+**API**
+
+![REST](https://img.shields.io/badge/REST-2563EB?style=for-the-badge) ![SOAP](https://img.shields.io/badge/SOAP-2563EB?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-2563EB?style=for-the-badge&logo=postman&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-2563EB?style=for-the-badge) ![Swagger](https://img.shields.io/badge/Swagger-2563EB?style=for-the-badge&logo=swagger&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-2563EB?style=for-the-badge) ![XML](https://img.shields.io/badge/XML-2563EB?style=for-the-badge)
+
+**Базы данных**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Web**
+
+![DevTools](https://img.shields.io/badge/DevTools-E34F26?style=for-the-badge&logo=googlechrome&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=css&logoColor=white)
+
+**Анализ сетевого трафика**
+
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-7C3AED?style=for-the-badge) ![Fiddler](https://img.shields.io/badge/Fiddler-7C3AED?style=for-the-badge)
+
+**Тестовая документация и задачи**
+
+![Тест-кейсы](https://img.shields.io/badge/%D0%A2%D0%B5%D1%81%D1%82--%D0%BA%D0%B5%D0%B9%D1%81%D1%8B-14856B?style=for-the-badge) ![Чек-листы](https://img.shields.io/badge/%D0%A7%D0%B5%D0%BA--%D0%BB%D0%B8%D1%81%D1%82%D1%8B-14856B?style=for-the-badge) ![Баг-репорты](https://img.shields.io/badge/%D0%91%D0%B0%D0%B3--%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B-14856B?style=for-the-badge) ![TestRail](https://img.shields.io/badge/TestRail-14856B?style=for-the-badge&logo=testrail&logoColor=white) ![QASE](https://img.shields.io/badge/QASE-14856B?style=for-the-badge&logo=qase&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-14856B?style=for-the-badge&logo=jira&logoColor=white) ![YouTrack](https://img.shields.io/badge/YouTrack-14856B?style=for-the-badge&logo=youtrack&logoColor=white)
+
+**Другие инструменты**
+
+![Git](https://img.shields.io/badge/Git-374151?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-374151?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Английский язык:** B1.
 
 ## Образование и опыт
 
