@@ -21,7 +21,7 @@
   <img src="Icons/round/swagger.svg" alt="Swagger" title="Swagger" width="56" height="56" />
 </p>
 
-Понимание ![REST](https://img.shields.io/badge/REST-2563EB?style=for-the-badge) ![RESTful](https://img.shields.io/badge/RESTful-2563EB?style=for-the-badge) ![JSON](https://img.shields.io/badge/JSON-2563EB?style=for-the-badge) ![XML](https://img.shields.io/badge/XML-2563EB?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-2563EB?style=for-the-badge) ![RESTful](https://img.shields.io/badge/RESTful-2563EB?style=for-the-badge) ![JSON](https://img.shields.io/badge/JSON-2563EB?style=for-the-badge) ![XML](https://img.shields.io/badge/XML-2563EB?style=for-the-badge)
 
 **Базы данных**
 
@@ -35,7 +35,7 @@
   <img src="Icons/round/googlechrome.svg" alt="DevTools" title="DevTools" width="56" height="56" />
 </p>
 
-Понимание ![HTML](https://img.shields.io/badge/HTML-2563EB?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-2563EB?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-2563EB?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-2563EB?style=for-the-badge)
 
 **Анализ сетевого трафика**
 
