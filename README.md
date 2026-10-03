@@ -16,19 +16,16 @@
 **API**
 
 <p>
-  <img src="Icons/round/rest.svg" alt="REST" title="REST" width="56" height="56" />
-  <img src="Icons/round/soap.svg" alt="SOAP" title="SOAP" width="56" height="56" />
   <img src="Icons/round/postman.svg" alt="Postman" title="Postman" width="56" height="56" />
   <img src="Icons/round/soapui.svg" alt="SoapUI" title="SoapUI" width="56" height="56" />
   <img src="Icons/round/swagger.svg" alt="Swagger" title="Swagger" width="56" height="56" />
-  <img src="Icons/round/json.svg" alt="JSON" title="JSON" width="56" height="56" />
-  <img src="Icons/round/xml.svg" alt="XML" title="XML" width="56" height="56" />
 </p>
+
+Понимание ![REST](https://img.shields.io/badge/REST-2563EB?style=for-the-badge) ![RESTful](https://img.shields.io/badge/RESTful-2563EB?style=for-the-badge) ![JSON](https://img.shields.io/badge/JSON-2563EB?style=for-the-badge) ![XML](https://img.shields.io/badge/XML-2563EB?style=for-the-badge)
 
 **Базы данных**
 
 <p>
-  <img src="Icons/round/sql.svg" alt="SQL" title="SQL" width="56" height="56" />
   <img src="Icons/round/mysql.svg" alt="MySQL" title="MySQL" width="56" height="56" />
 </p>
 
@@ -36,9 +33,9 @@
 
 <p>
   <img src="Icons/round/googlechrome.svg" alt="DevTools" title="DevTools" width="56" height="56" />
-  <img src="Icons/round/html.svg" alt="HTML" title="HTML" width="56" height="56" />
-  <img src="Icons/round/css.svg" alt="CSS" title="CSS" width="56" height="56" />
 </p>
+
+Понимание ![HTML](https://img.shields.io/badge/HTML-2563EB?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-2563EB?style=for-the-badge)
 
 **Анализ сетевого трафика**
 
@@ -50,9 +47,6 @@
 **Тестовая документация и задачи**
 
 <p>
-  <img src="Icons/round/test-cases.svg" alt="Тест-кейсы" title="Тест-кейсы" width="56" height="56" />
-  <img src="Icons/round/checklists.svg" alt="Чек-листы" title="Чек-листы" width="56" height="56" />
-  <img src="Icons/round/bug-reports.svg" alt="Баг-репорты" title="Баг-репорты" width="56" height="56" />
   <img src="Icons/round/testrail.svg" alt="TestRail" title="TestRail" width="56" height="56" />
   <img src="Icons/round/qase.svg" alt="QASE" title="QASE" width="56" height="56" />
   <img src="Icons/round/jira.svg" alt="Jira" title="Jira" width="56" height="56" />
@@ -67,8 +61,6 @@
   <img src="Icons/round/linux.svg" alt="Linux" title="Linux" width="56" height="56" />
   <img src="Icons/round/gnubash.svg" alt="Bash" title="Bash" width="56" height="56" />
 </p>
-
-**Английский язык:** B1.
 
 ## Образование и опыт
 
